@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/sysButton/min_button.png</file>
+        <file>img/sysButton/skin_button.png</file>
+        <file>img/sysButton/close_button.png</file>
+        <file>img/sysButton/max_button.png</file>
+        <file>img/sysButton/mask22x22_hover.png</file>
+        <file>img/sysButton/mask22x22_press.png</file>
+    </qresource>
+    <qresource prefix="/TitleBar">
+        <file>img/titlebar/linux32.png</file>
+        <file>img/titlebar/ms32.png</file>
+        <file alias="UserHeader_MS">img/titlebar/ms48.ico</file>
+        <file>img/titlebar/linux48.ico</file>
+    </qresource>
+    <qresource prefix="/skin">
+        <file>img/skin/0.jpg</file>
+        <file>img/skin/0_big.jpg</file>
+        <file>img/skin/1.jpg</file>
+        <file>img/skin/1_big.jpg</file>
+        <file>img/skin/2.jpg</file>
+        <file>img/skin/2_big.jpg</file>
+        <file>img/skin/3.jpg</file>
+        <file>img/skin/3_big.jpg</file>
+        <file>img/skin/4.jpg</file>
+        <file>img/skin/4_big.jpg</file>
+        <file>img/skin/5.jpg</file>
+        <file>img/skin/5_big.jpg</file>
+        <file>img/skin/6.jpg</file>
+        <file>img/skin/6_big.jpg</file>
+        <file>img/skin/7.jpg</file>
+        <file>img/skin/7_big.jpg</file>
+        <file>img/skin/8.jpg</file>
+        <file>img/skin/8_big.jpg</file>
+        <file>img/skin/9.jpg</file>
+        <file>img/skin/9_big.jpg</file>
+    </qresource>
+    <qresource prefix="/centerwidget">
+        <file>img/centerwidget/chatrecord_hot.png</file>
+        <file>img/centerwidget/chatrecord_normal.png</file>
+        <file>img/centerwidget/group_hot.png</file>
+        <file>img/centerwidget/group_normal.png</file>
+        <file>img/centerwidget/users_hot.png</file>
+        <file>img/centerwidget/users_normal.png</file>
+        <file>img/centerwidget/group_logo16.ico</file>
+        <file>img/centerwidget/20x20_search.png</file>
+    </qresource>
+    <qresource prefix="/bottombar">
+        <file>img/bottombar/contact.png</file>
+        <file>img/bottombar/files.png</file>
+        <file>img/bottombar/settings.png</file>
+        <file>img/bottombar/mask.png</file>
+        <file>img/bottombar/about.png</file>
+        <file>img/bottombar/fresh.png</file>
+    </qresource>
+    <qresource prefix="/chatwnd">
+        <file>img/chatwnd/peerinf.png</file>
+        <file>img/chatwnd/record.png</file>
+        <file>img/chatwnd/color.png</file>
+        <file>img/chatwnd/font.png</file>
+        <file>img/chatwnd/picture.png</file>
+        <file>img/chatwnd/screencapture.png</file>
+        <file>img/chatwnd/sendfile.png</file>
+        <file>img/chatwnd/menubtn.png</file>
+    </qresource>
+    <qresource prefix="/shootscreen">
+        <file>img/shootscreen/shotscreen_cursor.png</file>
+        <file>img/shootscreen/shootscreen_cancel.png</file>
+        <file>img/shootscreen/shootscreen_ok.png</file>
+    </qresource>
+</RCC>
